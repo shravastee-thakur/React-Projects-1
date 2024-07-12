@@ -1,0 +1,36 @@
+.main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+.activeImg {
+    height: 450px;
+    width: 600px;
+}
+.blue {
+    margin-top: 8px;
+    height: 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.image {
+    height: auto;
+    width: 110px;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
