@@ -5,4 +5,5 @@ React practice projects <br/>
 3_accordion - Multi item accordion <br/>
 4_todo - Add and delete ToDo <br/>
 5_SelectGallery - Bigger picture view after clicking on thumbnail<br/>
-6_StarRating - Product star rating
+6_StarRating - Product star rating<br/>
+7_daekmode - toggle switch - dark to light mode
