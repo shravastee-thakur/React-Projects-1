@@ -6,4 +6,5 @@ React practice projects <br/>
 4_todo - Add and delete ToDo <br/>
 5_SelectGallery - Bigger picture view after clicking on thumbnail<br/>
 6_StarRating - Product star rating<br/>
-7_daekmode - toggle switch - dark to light mode
+7_darkmode - toggle switch - dark to light mode<br/>
+8_github - Github profile finder
